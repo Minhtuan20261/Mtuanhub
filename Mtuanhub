@@ -3,4 +3,4 @@ Config = {
     logoscript = "117390141608083",
     tacgia = "NgMinhTuấn"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRobloxV1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
