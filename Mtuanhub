@@ -3,4 +3,4 @@ Config = {
     logoscript = "117390141608083",
     tacgia = "NgMinhTuấn"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VGB-VGB-VGB/-VGB-Chest-Farm--/refs/heads/main/ChestFarmByVGBTeam"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRobloxV1"))()
